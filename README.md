@@ -1,17 +1,17 @@
 # wangwang
-Brief description: This project is used to translate the comments in the source code without changing the code structure.
-Project function description:
-     1. Do not change the source code structure
-     2. Only translate the comment part
-     3. Support c, c ++, c #, .NET, go, java, scala, kotlin, js, php, etc., do not support python
-     4. Currently only supports translation from other languages to Chinese
-version:
-     Current version: 1.0
-     Time: 2020-5-7 11:29:41
-     jdk version: 1.8
-Subsequent to be upgraded:
-     1. Use optimization: increase the graphical user interface
-     2. Function enhancement: add support for python and some scripting languages
+# Brief description: This project is used to translate the comments in the source code without changing the code structure.
+# Project function description:
+#      1. Do not change the source code structure
+#      2. Only translate the comment part
+#      3. Support c, c ++, c #, .NET, go, java, scala, kotlin, js, php, etc., do not support python
+#      4. Currently only supports translation from other languages to Chinese
+# version:
+#      Current version: 1.0
+#      Time: 2020-5-7 11:29:41
+#      jdk version: 1.8
+# Subsequent to be upgraded:
+#      1. Use optimization: increase the graphical user interface
+#      2. Function enhancement: add support for python and some scripting languages
      3. Modify other problems found
      4. Support translation to other languages
 Instructions:
