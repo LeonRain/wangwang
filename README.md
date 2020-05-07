@@ -19,7 +19,7 @@
 	#      2. Fill in the input and output paths in the main method, then add a "\\" at the end of the path
 	#      3. Run, wait for the run to complete
 	# ---------------------------------------------------------------------------------------------------------------
-	# 中文名：旺旺
+# 中文名：旺旺
 	# 简述：该项目用来对源代码中的注释内容进行翻译，在不改变代码结构的前提下。
 	# 项目功能说明：
 	#     1.不改变源代码结构
